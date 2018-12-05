@@ -1,0 +1,1 @@
+The workspaces can be used to seprate each others work so multile poeople can work on different things until we are ready to put things together. It also means that we are not interfering with each others work.
